@@ -48,4 +48,4 @@ Contact
 ======
 erw011@ucsd.edu
 
-<a href="/files/CV_ErchiWang.pdf" style="text-decoration:none">My résumé.</a>
+<!-- <a href="/files/CV_ErchiWang.pdf" style="text-decoration:none">My résumé.</a> -->
