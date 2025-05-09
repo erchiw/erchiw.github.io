@@ -10,11 +10,9 @@ redirect_from:
 
 I am a <a href="https://datascience.ucsd.edu/" style="text-decoration:none">Data Science</a> Ph.D. student at UC San Diego, where I am extremely fortunate to be advised by Prof. <a href="https://cseweb.ucsd.edu/~yuxiangw/" style="text-decoration:none">Yu-Xiang Wang</a> and to work closely with Prof. <a href="https://sites.google.com/view/yianma/home" style="text-decoration:none">Yi-An Ma</a>
 
-My research focuses on differential privacy and machine learning, from theory to practice. Recently, I have being thinking how tecniques from differential privacy can address safety concerns in generative models. <a href="/files/CV_ErchiWang.pdf" style="text-decoration:none">My CV can be found here</a>
+My research focuses on differential privacy and machine learning, from theory to practice. Recently, I have being thinking how tecniques from differential privacy can address safety concerns in generative models. 
 
 <br />
-
-
 
 
 Selected Papers <small><span style="color:#888888">(\* denotes equal contribution)</span><small>
@@ -42,3 +40,12 @@ Education
 **University of California Santa Barbara**
 <br>Ph.D. in Statistics 
 <br>Sep 2021 - Jun 2024. (Transferred to UCSD)
+
+
+<br />
+
+Contact
+======
+erw011@ucsd.edu
+
+<a href="/files/CV_ErchiWang.pdf" style="text-decoration:none">My resume.</a>
