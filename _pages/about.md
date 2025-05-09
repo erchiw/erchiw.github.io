@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a [Data Science](https://datascience.ucsd.edu/) Ph.D. student at UC San Diego, where I am extremely fortunate to be advised by Prof. [Yu-Xiang Wang](https://datascience.ucsd.edu/). 
+I am a [Data Science](https://datascience.ucsd.edu/) Ph.D. student at UC San Diego, where I am extremely fortunate to be advised by Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/) and to work closely with Prof. [Yi-an Ma](https://sites.google.com/view/yianma/home). 
 
 My research focuses on differential privacy and machine learning, from theory to practice. Recently, I have being thinking how tecniques from differential privacy can address safety concerns in generative models. [My CV can be found here](/files/CV_ErchiWang.pdf).
-
 
 <br />
 
 
 
-Selected Papers (\* denotes equal contribution)
+Selected Papers <small><span style="color:#888888">(\* denotes equal contribution)</span><small>
 ======
 **Adapting to Linear Separable Subsets with Large-Margin in Differentially Private Learning**
 <br> Erchi Wang, Yuqing Zhu, Yu-Xiang Wang
