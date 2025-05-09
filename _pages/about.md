@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a [Data Science](https://datascience.ucsd.edu/) Ph.D. student at UC San Diego, where I am extremely fortunate to be advised by Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/) and to work closely with Prof. [Yi-an Ma](https://sites.google.com/view/yianma/home). 
+I am a [Data Science](https://datascience.ucsd.edu/) Ph.D. student at UC San Diego, where I am extremely fortunate to be advised by Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/) and to work closely with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home). 
 
 My research focuses on differential privacy and machine learning, from theory to practice. Recently, I have being thinking how tecniques from differential privacy can address safety concerns in generative models. [My CV can be found here](/files/CV_ErchiWang.pdf).
 
@@ -24,7 +24,7 @@ Selected Papers <small><span style="color:#888888">(\* denotes equal contributio
 <br> Oral presentation at [TPDP 2025](https://tpdp.journalprivacyconfidentiality.org/2025/) - Theory and Practice of Differential Privacy
 
 **Purifying Approximate Differential Privacy with Randomized Post-processing**
-<br> Yingyu Lin\*, Erchi Wang\*, Yi-an Ma, Yu-Xiang Wang
+<br> Yingyu Lin\*, Erchi Wang\*, Yi-An Ma, Yu-Xiang Wang
 <br> Oral presentation at [TPDP 2025](https://tpdp.journalprivacyconfidentiality.org/2025/) - Theory and Practice of Differential Privacy
 
 <br />
