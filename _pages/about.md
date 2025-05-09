@@ -35,7 +35,7 @@ Education
 ======
 **University of California San Diego**
 <br>Ph.D. in Data Science
-<br>Jul 2024 - Jun 2027.
+<br>Jul 2024 - Now
 
 **University of California Santa Barbara**
 <br>Ph.D. in Statistics 
