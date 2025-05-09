@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Erchi Wang"
   avatar           : "profile.jpg"
-  bio              : "Data science Ph.D. @ UCSD"
+  bio              : "Data Science Ph.D. @ UCSD"
   location         : "La Jolla, CA"
-  employer         :
+  employer         : #"Halıcıoğlu Data Science Institute"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=reDCpR8AAAAJ&hl=en"
   email            : "erw011@ucsd.edu"
