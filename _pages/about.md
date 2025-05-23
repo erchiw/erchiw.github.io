@@ -19,13 +19,13 @@ Selected Papers <small><span style="color:#888888">(\* denotes equal contributio
 ======
 **Adapting to Linear Separable Subsets with Large-Margin in Differentially Private Learning**
 <br> Erchi Wang, <a href="https://jeremy43.github.io/" style="text-decoration:none">Yuqing Zhu</a>, Yu-Xiang Wang
-<br> To appear at ICML 2025. <a href="https://erchiw.github.io" style="text-decoration:none">available soon!</a> 
-<br> Oral presentation at <a href="https://tpdp.journalprivacyconfidentiality.org/2025/" style="text-decoration:none">TPDP 2025</a> - Theory and Practice of Differential Privacy
+<br> To appear in International Conference on Machine Learning (ICML) 2025. 
+<br> Theory and Practice of Differential Privacy workshop (TPDP) 2025, <span style="color: orange;">oral presentation</span>.
 
 **Purifying Approximate Differential Privacy with Randomized Post-processing**
 <br> <a href="https://sites.google.com/view/yingyulin" style="text-decoration:none">Yingyu Lin\*</a>, Erchi Wang\*, Yi-An Ma, Yu-Xiang Wang
-<br> <a href="https://arxiv.org/pdf/2503.21071" style="text-decoration:none">Manuscript</a>
-<br> Oral presentation at <a href="https://tpdp.journalprivacyconfidentiality.org/2025/" style="text-decoration:none">TPDP 2025</a> - Theory and Practice of Differential Privacy
+<br> <a href="https://arxiv.org/pdf/2503.21071" style="text-decoration:none">Arxiv preprint</a>
+<br> Theory and Practice of Differential Privacy workshop (TPDP) 2025, <span style="color: orange;">oral presentation</span>.
 
 <br />
 
