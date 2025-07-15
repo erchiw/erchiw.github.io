@@ -21,7 +21,7 @@ Selected Papers <small><span style="color:#888888">(\* denotes equal contributio
 <br> <b>Erchi Wang</b>, <a href="https://jeremy43.github.io/" style="text-decoration:none">Yuqing Zhu</a>, Yu-Xiang Wang
 <br> International Conference on Machine Learning (ICML) 2025. <a href="https://arxiv.org/abs/2505.24737" style="text-decoration:none">Arxiv preprint</a>
 <br> Theory and Practice of Differential Privacy workshop (TPDP) 2025, <span style="color: orange;">oral presentation</span>.
-<br> Contributed talk, <a href="https://crypto-ppml.github.io/2025/" style="text-decoration:none">Privacy-Preserving Machine Learning Workshop, Crypto 2025. </a> 
+<br> Privacy-Preserving Machine Learning Workshop (<a href="https://crypto-ppml.github.io/2025/" style="text-decoration:none"> PPML </a>) in Crypto 2025, <span style="color: orange;">contributed talk</span> 
 
 **Purifying Approximate Differential Privacy with Randomized Post-processing**
 <br> <a href="https://sites.google.com/view/yingyulin" style="text-decoration:none">Yingyu Lin\*</a>, <b>Erchi Wang\*</b>, Yi-An Ma, Yu-Xiang Wang
