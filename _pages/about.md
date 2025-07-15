@@ -19,13 +19,18 @@ Selected Papers <small><span style="color:#888888">(\* denotes equal contributio
 ======
 **Adapting to Linear Separable Subsets with Large-Margin in Differentially Private Learning**
 <br> Erchi Wang, <a href="https://jeremy43.github.io/" style="text-decoration:none">Yuqing Zhu</a>, Yu-Xiang Wang
-<br> To appear in International Conference on Machine Learning (ICML) 2025. <a href="https://arxiv.org/abs/2505.24737" style="text-decoration:none">Arxiv preprint</a>
+<br> International Conference on Machine Learning (ICML) 2025. <a href="https://arxiv.org/abs/2505.24737" style="text-decoration:none">Arxiv preprint</a>
 <br> Theory and Practice of Differential Privacy workshop (TPDP) 2025, <span style="color: orange;">oral presentation</span>.
+<br> Contributed talk, <a href="https://crypto-ppml.github.io/2025/" style="text-decoration:none">Privacy-Preserving Machine Learning Workshop, Crypto 2025. </a> 
 
 **Purifying Approximate Differential Privacy with Randomized Post-processing**
 <br> <a href="https://sites.google.com/view/yingyulin" style="text-decoration:none">Yingyu Lin\*</a>, Erchi Wang\*, Yi-An Ma, Yu-Xiang Wang
 <br> [<a href="https://arxiv.org/pdf/2503.21071" style="text-decoration:none">Arxiv preprint</a>](https://arxiv.org/abs/2505.24737)
 <br> Theory and Practice of Differential Privacy workshop (TPDP) 2025, <span style="color: orange;">oral presentation</span>.
+
+**Beyond Per-Question Privacy: Multi-Query Differential Privacy for RAG Systems**
+<br> <a href="https://sites.google.com/site/ruihanwu14/home" style="text-decoration:none">Ruihan Wu\*</a>, Erchi Wang\*, Yu-Xiang Wang
+<br> [<a href="https://drive.google.com/file/d/1yhsu-iRmqOouwH1_XecRoOj0ItlagSm8/view?usp=sharing" style="text-decoration:none">Manuscript</a>](https://drive.google.com/file/d/1yhsu-iRmqOouwH1_XecRoOj0ItlagSm8/view?usp=sharing)
 
 <br />
 
