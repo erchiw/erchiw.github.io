@@ -43,7 +43,7 @@ Education
 <br>Jul 2024 - Now
 
 **University of California Santa Barbara**
-<br>Ph.D. in Statistics 
+<br>M.A. in Statistics 
 <br>Sep 2021 - Jun 2024. (Transferred to UCSD)
 
 
