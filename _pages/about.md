@@ -19,7 +19,7 @@ Selected Papers <small><span style="color:#888888">(\* denotes equal contributio
 ======
 **Adapting to Linear Separable Subsets with Large-Margin in Differentially Private Learning**
 <br> with <a href="https://jeremy43.github.io/" style="text-decoration:none">Yuqing Zhu</a>, Yu-Xiang Wang
-<br>ICML 2025; TPDP 2025 <span style="color: orange; font-size: 15pt;">oral presentation</span>; Crypto PPML 2025 <span style="color: orange; font-size: 15pt;">contributed talk</span>. <a href="https://arxiv.org/abs/2505.24737" style="text-decoration:none">arXiv</a>
+<br>ICML 2025; TPDP 2025 <span style="color: orange; font-size: 10pt;">oral presentation</span>; Crypto PPML 2025 <span style="color: orange; font-size: 15pt;">contributed talk</span>. <a href="https://arxiv.org/abs/2505.24737" style="text-decoration:none">arXiv</a>
 
 
 **Purifying Approximate Differential Privacy with Randomized Post-processing**
