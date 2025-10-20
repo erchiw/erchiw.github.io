@@ -20,11 +20,7 @@ Selected Papers <small><span style="color:#888888">
 **Adapting to Linear Separable Subsets with Large-Margin in Differentially Private Learning**
 <br> with <a href="https://jeremy43.github.io/" style="text-decoration:none">Yuqing Zhu</a>, Yu-Xiang Wang
 <br>ICML 2025 · TPDP 2025 <span style="color: orange; font-size: 12pt;">oral presentation</span> · Crypto PPML 2025 <span style="color: orange; font-size: 12pt;">contributed talk</span> <a href="https://arxiv.org/abs/2505.24737" style="text-decoration:none">arXiv</a>
-
-<button type="button" class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>This is the content that will be shown or hidden.</p>
-</div>
+<br> <span style="color:#6b7280; font-style:italic;">a computationally efficient black-box reduction that converts approximate DP mechanisms into pure DP, offering a new receipe for efficient pure-DP optimization and data-dependent algorithms</span>
 
 
 **Purifying Approximate Differential Privacy with Randomized Post-processing**
@@ -58,7 +54,7 @@ Education
 ======
 **University of California San Diego**
 <br>Ph.D. in Data Science
-<br>Jul 2024 - Now
+<br>Jul 2024 - Jul 2027
 
 **University of California Santa Barbara**
 <br>M.A. in Statistics 
