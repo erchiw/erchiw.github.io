@@ -20,17 +20,19 @@ Selected Papers <small><span style="color:#888888">
 **Adapting to Linear Separable Subsets with Large-Margin in Differentially Private Learning**
 <br> with <a href="https://jeremy43.github.io/" style="text-decoration:none">Yuqing Zhu</a>, Yu-Xiang Wang
 <br>ICML 2025 · TPDP 2025 <span style="color: orange; font-size: 12pt;">oral presentation</span> · Crypto PPML 2025 <span style="color: orange; font-size: 12pt;">contributed talk</span> <a href="https://arxiv.org/abs/2505.24737" style="text-decoration:none">arXiv</a>
-<br> <span style="color:#6e6e6e; font-style:italic; font-size:13.5px; line-height:1.4; margin-top:4px;">A computationally efficient black-box reduction that converts approximate DP mechanisms into pure DP, offering a new receipe for efficient pure-DP optimization and data-dependent algorithms。</span>
+<br> <span style="color:#6e6e6e; font-style:italic; font-size:13.8px; line-height:1.4; margin-top:4px;">A differentially private large-margin classifier that adapts to both separable and non-separable regimes, with a refined DP-SGD analysis. No margin assumption is needed.</span>
 
 
 **Purifying Approximate Differential Privacy with Randomized Post-processing**
 <br> with <a href="https://sites.google.com/view/yingyulin" style="text-decoration:none">Yingyu Lin<sup>*</sup></a>, Yi-An Ma, Yu-Xiang Wang
 <br>NeurIPS 2025 <span style="color:#FFCC00; font-size: 12pt;">Spotlight</span> · TPDP 2025 <span style="color: orange; font-size: 12pt;">oral presentation</span> <a href="https://arxiv.org/pdf/2503.21071" style="text-decoration:none">arXiv</a>
+<br> <span style="color:#6e6e6e; font-style:italic; font-size:13.8px; line-height:1.4; margin-top:4px;">A computationally efficient black-box reduction that converts approximate DP mechanisms into pure DP, offering a new recipe for efficient pure-DP optimization and pure-DP data-dependent algorithms.</span>
 
 
 **Beyond Per-Question Privacy: Multi-Query Differential Privacy for RAG Systems**
 <br> with <a href="https://sites.google.com/site/ruihanwu14/home" style="text-decoration:none">Ruihan Wu<sup>*</sup></a>, Yu-Xiang Wang
 <br> Preliminary version accepted at NeurIPS 2025 Workshop: Reliable ML from Unreliable Data <a href="https://drive.google.com/file/d/1yhsu-iRmqOouwH1_XecRoOj0ItlagSm8/view?usp=sharing" style="text-decoration:none">Manuscript</a>
+<br> <span style="color:#6e6e6e; font-style:italic; font-size:13.8px; line-height:1.4; margin-top:4px;">A multi-query DP-RAG framework with per-document privacy accounting that reduces the privacy budget by up to 100× compared to single-query DP composition, with improved utility.</span>
 
 
 
