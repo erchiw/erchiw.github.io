@@ -15,16 +15,16 @@ My research interests lie in differentially private machine learning. Recently, 
 <br />
 
 
-Selected Papers <small><span style="color:#888888">(\* denotes equal contribution)</span><small>
+Selected Papers <small><span style="color:#888888">
 ======
 **Adapting to Linear Separable Subsets with Large-Margin in Differentially Private Learning**
 <br> with <a href="https://jeremy43.github.io/" style="text-decoration:none">Yuqing Zhu</a>, Yu-Xiang Wang
-<br>ICML 2025; TPDP 2025 <span style="color: orange; font-size: 12pt;">oral presentation</span>; Crypto PPML 2025 <span style="color: orange; font-size: 15pt;">contributed talk</span> <a href="https://arxiv.org/abs/2505.24737" style="text-decoration:none">arXiv</a>
+<br>ICML 2025 · TPDP 2025 <span style="color: orange; font-size: 12pt;">oral presentation</span> · Crypto PPML 2025 <span style="color: orange; font-size: 12pt;">contributed talk</span> <a href="https://arxiv.org/abs/2505.24737" style="text-decoration:none">arXiv</a>
 
 
 **Purifying Approximate Differential Privacy with Randomized Post-processing**
 <br> with <a href="https://sites.google.com/view/yingyulin" style="text-decoration:none">Yingyu Lin</a>, Yi-An Ma, Yu-Xiang Wang
-<br>NeurIPS 2025 <span style="color:#FFCC00; font-size: 15pt;">Spotlight</span>; TPDP 2025 <span style="color: orange; font-size: 15pt;">oral presentation</span> <a href="https://arxiv.org/pdf/2503.21071" style="text-decoration:none">arXiv</a>
+<br>NeurIPS 2025 <span style="color:#FFCC00; font-size: 12pt;">Spotlight</span> · TPDP 2025 <span style="color: orange; font-size: 12pt;">oral presentation</span> <a href="https://arxiv.org/pdf/2503.21071" style="text-decoration:none">arXiv</a>
 
 
 **Beyond Per-Question Privacy: Multi-Query Differential Privacy for RAG Systems**
