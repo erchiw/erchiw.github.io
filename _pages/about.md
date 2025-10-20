@@ -21,6 +21,11 @@ Selected Papers <small><span style="color:#888888">
 <br> with <a href="https://jeremy43.github.io/" style="text-decoration:none">Yuqing Zhu</a>, Yu-Xiang Wang
 <br>ICML 2025 · TPDP 2025 <span style="color: orange; font-size: 12pt;">oral presentation</span> · Crypto PPML 2025 <span style="color: orange; font-size: 12pt;">contributed talk</span> <a href="https://arxiv.org/abs/2505.24737" style="text-decoration:none">arXiv</a>
 
+<button type="button" class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>This is the content that will be shown or hidden.</p>
+</div>
+
 
 **Purifying Approximate Differential Privacy with Randomized Post-processing**
 <br> with <a href="https://sites.google.com/view/yingyulin" style="text-decoration:none">Yingyu Lin<sup>*</sup></a>, Yi-An Ma, Yu-Xiang Wang
