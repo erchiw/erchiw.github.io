@@ -15,7 +15,7 @@ My research interests lie in differentially private machine learning. Recently, 
 <br />
 
 
-Selected Papers <small><span style="color:#888888">
+Selected Papers <small><span style="color:#888888"> <span style="color: gray; font-size: 12pt;">(*equal contribution and/or alphabetical ordering)</span>
 ======
 **Adapting to Linear Separable Subsets with Large-Margin in Differentially Private Learning**
 <br> with <a href="https://jeremy43.github.io/" style="text-decoration:none">Yuqing Zhu</a>, Yu-Xiang Wang
