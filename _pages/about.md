@@ -32,7 +32,7 @@ Selected Papers <small><span style="color:#888888"> <span style="color: gray; fo
 
 
 **Beyond Per-Question Privacy: Multi-Query Differential Privacy for RAG Systems**
-<br> with <a href="https://sites.google.com/site/ruihanwu14/home" style="text-decoration:none">Ruihan Wu<sup>*</sup></a>, Yu-Xiang Wang
+<br> with <a href="https://sites.google.com/site/ruihanwu14/home" style="text-decoration:none">Ruihan Wu<sup>*</sup></a>, Zhiyuan Zhang, Yu-Xiang Wang
 <br> Preliminary version at NeurIPS 2025 Workshop: Reliable ML from Unreliable Data <a href="https://arxiv.org/pdf/2511.07637" style="text-decoration:none">arXiv</a>
 <br> <span style="color:#6e6e6e; font-style:italic; font-size:13.8px; line-height:1.4; margin-top:4px;">A multi-query DP-RAG framework with per-document privacy accounting that reduces the privacy budget by up to 100× compared to single-query DP composition, with improved utility.</span>
 
