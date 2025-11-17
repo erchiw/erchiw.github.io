@@ -20,7 +20,7 @@ Selected Papers <small><span style="color:#888888"> <span style="color: gray; fo
 ======
 **Adapting to Linear Separable Subsets with Large-Margin in Differentially Private Learning**
 <br> with <a href="https://jeremy43.github.io/" style="text-decoration:none">Yuqing Zhu</a>, Yu-Xiang Wang
-<br>ICML 2025 · TPDP 2025 <span style="color: orange; font-size: 12pt;">oral presentation</span> · Crypto PPML 2025 <span style="color: orange; font-size: 12pt;">contributed talk</span> <a href="https://arxiv.org/abs/2505.24737" style="text-decoration:none">arXiv</a>
+<br>ICML 2025 · TPDP 2025 <span style="color: orange; font-size: 12pt;">oral presentation</span> · Crypto PPML 2025 <span style="color: orange; font-size: 12pt;">contributed talk</span> | <a href="https://arxiv.org/abs/2505.24737" style="text-decoration:none">arXiv</a>
 <br> <span style="color:#6e6e6e; font-style:italic; font-size:13.8px; line-height:1.4; margin-top:4px;">A differentially private large-margin classifier that adapts to both separable and non-separable regimes, with a refined DP-SGD analysis. No margin assumption is needed.</span>
 
 
