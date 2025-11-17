@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student at <a href="https://datascience.ucsd.edu/" style="text-decoration:none">Halıcıoğlu Data Science Institute</a>, UC San Diego, where I am fortunate to be advised by Prof. <a href="https://cseweb.ucsd.edu/~yuxiangw/" style="text-decoration:none">Yu-Xiang Wang</a> and to work closely with Prof. <a href="https://sites.google.com/view/yianma/home" style="text-decoration:none">Yi-An Ma.</a>
 
-My research interests lie in differentially private machine learning. Recently, I have being thinking how tecniques from differential privacy can address safety concerns in generative models. 
+My research interests lie in privacy-preserving machine learning and responsible AI. Recently, I have being thinking how tecniques from differential privacy can address safety concerns in generative models. 
 
 <span style="color:#ED4C07; font-style:italic;">I am seeking Summer 2026 internship opportunities and would be happy to connect about potential roles or collaborations :)</span>
 
