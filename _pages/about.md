@@ -12,6 +12,11 @@ I am a Ph.D. student at <a href="https://datascience.ucsd.edu/" style="text-deco
 
 My research interests lie in differentially private machine learning. Recently, I have being thinking how tecniques from differential privacy can address safety concerns in generative models. 
 
+<span style="color:#E65415; font-style:italic; font-size:14.5px;">I am seeking Summer 2026 internship opportunities and would be happy to connect about potential roles or collaborations :)</span>
+
+
+
+
 <br />
 
 
