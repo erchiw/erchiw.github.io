@@ -12,7 +12,7 @@ I am a Ph.D. student at <a href="https://datascience.ucsd.edu/" style="text-deco
 
 My research interests lie in privacy-preserving machine learning and responsible AI. Recently, I have being thinking how tecniques from differential privacy can address safety concerns in generative models. 
 
-<span style="color:#ED4C07; font-style:italic;">I am seeking Summer 2026 internship opportunities and would be happy to connect about potential roles or collaborations :)</span>
+<span style="color:#ED4C07; font-style:italic;">I am seeking Summer 2026 internship opportunities and would be happy to connect about potential roles or collaborations :)</span> <a href="/files/resume_erchiwang.pdf" style="text-decoration:none">My résumé.</a>
 
 
 <br />
@@ -34,7 +34,7 @@ Selected Papers <small><span style="color:#888888"> <span style="color: gray; fo
 
 
 
-**Beyond Per-Question Privacy: Multi-Query Differential Privacy for RAG Systems**
+**Private-RAG: Answering Multiple Queries with LLMs while Keeping Your Data Private**
 <br> with <a href="https://sites.google.com/site/ruihanwu14/home" style="text-decoration:none">Ruihan Wu<sup>*</sup></a>, Zhiyuan Zhang, Yu-Xiang Wang
 <br> Preliminary version at NeurIPS 2025 Workshop: Reliable ML from Unreliable Data   <a href="https://arxiv.org/pdf/2511.07637" style="text-decoration:none">arXiv</a>
 <br> <span style="color:#6e6e6e; font-style:italic; font-size:13.8px; line-height:1.4; margin-top:4px;">A multi-query DP-RAG framework with per-document privacy accounting that reduces the privacy budget by up to 100× compared to single-query DP composition, with improved utility.</span>
@@ -74,4 +74,3 @@ Contact
 ======
 erw011@ucsd.edu
 
-<a href="/files/resume_erchiwang.pdf" style="text-decoration:none">My résumé.</a>
