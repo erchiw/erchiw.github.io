@@ -12,7 +12,7 @@ I am a Ph.D. student at <a href="https://datascience.ucsd.edu/" style="text-deco
 
 My research interests lie in privacy-preserving machine learning and responsible AI. Recently, I have being thinking how tecniques from differential privacy can address safety concerns in generative models. 
 
-<span style="color:#ED4C07; font-style:italic;">I am seeking Summer 2026 internship opportunities and would be happy to connect about potential roles or collaborations :)</span> <a href="/files/resume_erchiwang.pdf" style="text-decoration:none">My résumé.</a>
+<!-- <span style="color:#ED4C07; font-style:italic;">I am seeking Summer 2026 internship opportunities and would be happy to connect about potential roles or collaborations :)</span> <a href="/files/resume_erchiwang.pdf" style="text-decoration:none">My résumé.</a> -->
 
 
 <br />
