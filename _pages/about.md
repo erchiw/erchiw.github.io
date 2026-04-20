@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at <a href="https://datascience.ucsd.edu/" style="text-decoration:none">Halıcıoğlu Data Science Institute</a>, UC San Diego, where I am fortunate to be advised by Prof. <a href="https://cseweb.ucsd.edu/~yuxiangw/" style="text-decoration:none">Yu-Xiang Wang</a>. My research interests lie in privacy-preserving machine learning and responsible AI. 
+I am a Ph.D. student at <a href="https://datascience.ucsd.edu/" style="text-decoration:none">Halıcıoğlu Data Science Institute</a>, UC San Diego, where I am very fortunate to be advised by Prof. <a href="https://cseweb.ucsd.edu/~yuxiangw/" style="text-decoration:none">Yu-Xiang Wang</a>. My research interests lie in privacy-preserving machine learning and responsible AI. 
 
 
 
@@ -27,6 +27,10 @@ and to work closely with Prof. <a href="https://sites.google.com/view/yianma/hom
 
 Selected Papers <small><span style="color:#888888"> <span style="color: gray; font-size: 12pt;">(*equal contribution and/or alphabetical ordering)</span>
 ======
+**DPrivBench: Benchmarking LLMs' Reasoning for Differential Privacy**
+<br> with <a href="https://pengrunh.github.io/" style="text-decoration:none">Pengrun Huang</a>, <a href="https://sites.google.com/view/eli-chien/home" style="text-decoration:none">Eli Chien</a>, <a href="https://www.omthakkar.com/" style="text-decoration:none">Om Thakkar</a>, <a href="https://cseweb.ucsd.edu/~kamalika/" style="text-decoration:none">Kamalika Chaudhuri</a>, Yu-Xiang Wang, Ruihan Wu
+<br>TPDP 2026 <span style="color: orange; font-size: 12pt;">contributed talk</span>.  <a href="https://arxiv.org/abs/2604.15851" style="text-decoration:none">arXiv</a>
+
 **Adapting to Linear Separable Subsets with Large-Margin in Differentially Private Learning**
 <br> with <a href="https://jeremy43.github.io/" style="text-decoration:none">Yuqing Zhu</a>, Yu-Xiang Wang
 <br>ICML 2025 · TPDP 2025 <span style="color: orange; font-size: 12pt;">contributed talk</span>. <a href="https://arxiv.org/abs/2505.24737" style="text-decoration:none">arXiv</a>
@@ -41,13 +45,9 @@ Selected Papers <small><span style="color:#888888"> <span style="color: gray; fo
 
 **Private-RAG: Answering Multiple Queries with LLMs while Keeping Your Data Private**
 <br> with <a href="https://sites.google.com/site/ruihanwu14/home" style="text-decoration:none">Ruihan Wu<sup>*</sup></a>, Zhiyuan Zhang, Yu-Xiang Wang
-<br> Preliminary version at NeurIPS 2025 Workshop: Reliable ML from Unreliable Data   <a href="https://arxiv.org/pdf/2511.07637" style="text-decoration:none">arXiv</a>
+<br> Preliminary version at NeurIPS 2025 Workshop: Reliable ML from Unreliable Data.   <a href="https://arxiv.org/pdf/2511.07637" style="text-decoration:none">arXiv</a>
 <br> <span style="color:#6e6e6e; font-style:italic; font-size:13.8px; line-height:1.4; margin-top:4px;">A multi-query DP-RAG framework with per-document privacy accounting that reduces the privacy budget by up to 100× compared to single-query DP composition, with improved utility.</span>
 
-
-**DPrivBench: Benchmarking LLMs' Reasoning for Differential Privacy**
-<br> with <a href="https://pengrunh.github.io/" style="text-decoration:none">Pengrun Huang</a>, <a href="https://sites.google.com/view/eli-chien/home" style="text-decoration:none">Eli Chien</a>, <a href="https://www.omthakkar.com/" style="text-decoration:none">Om Thakkar</a>, <a href="https://cseweb.ucsd.edu/~kamalika/" style="text-decoration:none">Kamalika Chaudhuri</a>, Yu-Xiang Wang, Ruihan Wu
-<br>TPDP 2026 <span style="color: orange; font-size: 12pt;">contributed talk</span>  <a href="https://arxiv.org/abs/2604.15851" style="text-decoration:none">arXiv</a>
 
 
 
@@ -72,6 +72,8 @@ Experience
 **Meta Superintelligence Labs**
 <br>Research Scientist Intern
 <br>Apr 2026 - Now
+
+<br />
 
 Education
 ======
