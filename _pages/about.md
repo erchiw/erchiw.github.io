@@ -29,7 +29,10 @@ Selected Papers <small><span style="color:#888888"> <span style="color: gray; fo
 ======
 **DPrivBench: Benchmarking LLMs' Reasoning for Differential Privacy**
 <br> with <a href="https://pengrunh.github.io/" style="text-decoration:none">Pengrun Huang<sup>†</sup></a>, <a href="https://sites.google.com/view/eli-chien/home" style="text-decoration:none">Eli Chien</a>, <a href="https://www.omthakkar.com/" style="text-decoration:none">Om Thakkar</a>, <a href="https://cseweb.ucsd.edu/~kamalika/" style="text-decoration:none">Kamalika Chaudhuri</a>, Yu-Xiang Wang, <a href="https://sites.google.com/site/ruihanwu14/home" style="text-decoration:none">Ruihan Wu<sup>†</sup></a>
-<br><a href="https://tpdp.journalprivacyconfidentiality.org/2026/" style="text-decoration:none">TPDP 2026</a> <span style="color: orange; font-size: 12pt;">contributed talk</span>.  <a href="https://arxiv.org/abs/2604.15851" style="text-decoration:none">arXiv</a>
+<br><a href="https://tpdp.journalprivacyconfidentiality.org/2026/" style="text-decoration:none">TPDP 2026</a> <span style="color: orange; font-size: 12pt;">contributed talk</span>.  <a href="https://huggingface.co/datasets/erchiw/DPriv-Bench" style="text-decoration:none">Dataset</a> · <a href="https://github.com/erchiw/DPriv-Bench" style="text-decoration:none">GitHub</a> · <a href="https://arxiv.org/abs/2604.15851" style="text-decoration:none">arXiv</a>
+ 
+
+
 
 **Private-RAG: Answering Multiple Queries with LLMs while Keeping Your Data Private**
 <br> with <a href="https://sites.google.com/site/ruihanwu14/home" style="text-decoration:none">Ruihan Wu<sup>*</sup></a>, Zhiyuan Zhang, Yu-Xiang Wang
