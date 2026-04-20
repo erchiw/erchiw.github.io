@@ -28,7 +28,7 @@ and to work closely with Prof. <a href="https://sites.google.com/view/yianma/hom
 Selected Papers <small><span style="color:#888888"> <span style="color: gray; font-size: 12pt;">(*equal contribution and/or alphabetical ordering)</span>
 ======
 **DPrivBench: Benchmarking LLMs' Reasoning for Differential Privacy**
-<br> with <a href="https://pengrunh.github.io/" style="text-decoration:none">Pengrun Huang&dagger</a>, <a href="https://sites.google.com/view/eli-chien/home" style="text-decoration:none">Eli Chien</a>, <a href="https://www.omthakkar.com/" style="text-decoration:none">Om Thakkar</a>, <a href="https://cseweb.ucsd.edu/~kamalika/" style="text-decoration:none">Kamalika Chaudhuri</a>, Yu-Xiang Wang, Ruihan Wu&dagger
+<br> with <a href="https://pengrunh.github.io/" style="text-decoration:none">Pengrun Huang<sup>†</sup></a>, <a href="https://sites.google.com/view/eli-chien/home" style="text-decoration:none">Eli Chien</a>, <a href="https://www.omthakkar.com/" style="text-decoration:none">Om Thakkar</a>, <a href="https://cseweb.ucsd.edu/~kamalika/" style="text-decoration:none">Kamalika Chaudhuri</a>, Yu-Xiang Wang, <a href="https://sites.google.com/site/ruihanwu14/home" style="text-decoration:none">Ruihan Wu<sup>†</sup>
 <br>TPDP 2026 <span style="color: orange; font-size: 12pt;">contributed talk</span>.  <a href="https://arxiv.org/abs/2604.15851" style="text-decoration:none">arXiv</a>
 
 **Adapting to Linear Separable Subsets with Large-Margin in Differentially Private Learning**
