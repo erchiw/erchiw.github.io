@@ -34,7 +34,7 @@ Selected Papers <small><span style="color:#888888"> <span style="color: gray; fo
 
 
 **Purifying Approximate Differential Privacy with Randomized Post-processing**
-<br> with <a href="https://sites.google.com/view/yingyulin" style="text-decoration:none">Yingyu Lin<sup>*</sup></a>, <a href="https://sites.google.com/view/yianma" style="text-decoration:none">Yi-An Ma, Yu-Xiang Wang
+<br> with <a href="https://sites.google.com/view/yingyulin" style="text-decoration:none">Yingyu Lin<sup>*</sup></a>, <a href="https://sites.google.com/view/yianma" style="text-decoration:none">Yi-An Ma</a>, Yu-Xiang Wang
 <br>NeurIPS 2025 <span style="color:#FFCC00; font-size: 12pt;">Spotlight</span> · TPDP 2025 <span style="color: orange; font-size: 12pt;">contributed talk</span>.  <a href="https://arxiv.org/pdf/2503.21071" style="text-decoration:none">arXiv</a>
 <br> <span style="color:#6e6e6e; font-style:italic; font-size:13.8px; line-height:1.4; margin-top:4px;">A computationally efficient black-box reduction that converts approximate DP mechanisms into pure DP, offering a new recipe for efficient pure-DP optimization and pure-DP data-dependent algorithms.</span>
 
@@ -67,7 +67,11 @@ Selected Papers <small><span style="color:#888888"> <span style="color: gray; fo
 
 <br />
 
-
+Experience
+======
+**Meta Superintelligence Labs**
+<br>Research Scientist Intern
+<br>Apr 2026 - Now
 
 Education
 ======
