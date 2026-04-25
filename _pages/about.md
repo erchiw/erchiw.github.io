@@ -83,7 +83,7 @@ Selected Papers <small><span style="color:#888888"> <span style="color: gray; fo
 
 Experience
 ======
-**Meta Superintelligence Labs**
+**Meta Superintelligence Labs**, <span style="color: gray">Menlo Park</span>
 <br>Research Scientist Intern
 <br>Apr 2026 - Now
 
@@ -96,7 +96,7 @@ Education
 <br>Jul 2024 - Jul 2027 (Est.)
 
 **University of California Santa Barbara**
-<br>M.A. in Statistics (Transferred)
+<br>M.A. in Statistics
 <br>Sep 2021 - Jun 2024. 
 
 
