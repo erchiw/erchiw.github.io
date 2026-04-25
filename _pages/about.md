@@ -21,6 +21,7 @@ and to work closely with Prof. <a href="https://sites.google.com/view/yianma/hom
 
 <!-- <span style="color:#ED4C07; font-style:italic;">I am seeking Summer 2026 internship opportunities and would be happy to connect about potential roles or collaborations :)</span> <a href="/files/resume_erchiwang.pdf" style="text-decoration:none">My résumé.</a> -->
 
+<!-- <pre><br><strong>Erchi Wang</strong>, <a href="https://pengrunh.github.io/" style="text-decoration:none">Pengrun Huang</a>, <a href="https://sites.google.com/view/eli-chien/home" style="text-decoration:none">Eli Chien</a>, <a href="https://www.omthakkar.com/" style="text-decoration:none">Om Thakkar</a>, <a href="https://cseweb.ucsd.edu/~kamalika/" style="text-decoration:none">Kamalika Chaudhuri</a>, Yu-Xiang Wang, <a href="https://sites.google.com/site/ruihanwu14/home" style="text-decoration:none">Ruihan Wu</a></pre> -->
 
 <br />
 
@@ -28,7 +29,16 @@ and to work closely with Prof. <a href="https://sites.google.com/view/yianma/hom
 Selected Papers <small><span style="color:#888888"> <span style="color: gray; font-size: 12pt;">(*equal contribution and/or alphabetical ordering)</span>
 ======
 **DPrivBench: Benchmarking LLMs' Reasoning for Differential Privacy**
-<br><strong>Erchi Wang</strong>, <a href="https://pengrunh.github.io/" style="text-decoration:none">Pengrun Huang</a>, <a href="https://sites.google.com/view/eli-chien/home" style="text-decoration:none">Eli Chien</a>, <a href="https://www.omthakkar.com/" style="text-decoration:none">Om Thakkar</a>, <a href="https://cseweb.ucsd.edu/~kamalika/" style="text-decoration:none">Kamalika Chaudhuri</a>, Yu-Xiang Wang, <a href="https://sites.google.com/site/ruihanwu14/home" style="text-decoration:none">Ruihan Wu</a>
+<br>
+<span style="white-space: nowrap;">
+  <strong>Erchi Wang</strong>,
+  <a href="https://pengrunh.github.io/" style="text-decoration:none">Pengrun Huang</a>,
+  <a href="https://sites.google.com/view/eli-chien/home" style="text-decoration:none">Eli Chien</a>,
+  <a href="https://www.omthakkar.com/" style="text-decoration:none">Om Thakkar</a>,
+  <a href="https://cseweb.ucsd.edu/~kamalika/" style="text-decoration:none">Kamalika Chaudhuri</a>,
+  Yu-Xiang Wang,
+  <a href="https://sites.google.com/site/ruihanwu14/home" style="text-decoration:none">Ruihan Wu</a>
+</span>
 <br><a href="https://tpdp.journalprivacyconfidentiality.org/2026/" style="text-decoration:none">TPDP 2026</a> <span style="color: orange; font-size: 12pt;">contributed talk</span>.  <a href="https://huggingface.co/datasets/erchiw/DPriv-Bench" style="text-decoration:none">Dataset</a> · <a href="https://github.com/erchiw/DPriv-Bench" style="text-decoration:none">GitHub</a> · <a href="https://arxiv.org/abs/2604.15851" style="text-decoration:none">arXiv</a>
 <br> <span style="color:#6e6e6e; font-style:italic; font-size:13.8px; line-height:1.4; margin-top:4px;">The first benchmark on evaluating LLMs' reasoning ability of differential privacy.</span>
  
