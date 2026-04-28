@@ -40,7 +40,7 @@ Selected Papers <small><span style="color:#888888"> <span style="color: gray; fo
   <a href="https://sites.google.com/site/ruihanwu14/home" style="text-decoration:none">Ruihan Wu</a>
 </span>
 <br><a href="https://tpdp.journalprivacyconfidentiality.org/2026/" style="text-decoration:none">TPDP 2026</a> <span style="color: orange; font-size: 12pt;">contributed talk</span>.  <a href="https://huggingface.co/datasets/erchiw/DPriv-Bench" style="text-decoration:none">Dataset</a> · <a href="https://github.com/erchiw/DPriv-Bench" style="text-decoration:none">GitHub</a> · <a href="https://arxiv.org/abs/2604.15851" style="text-decoration:none">arXiv</a>
-<br> <span style="color:#6e6e6e; font-style:italic; font-size:13.8px; line-height:1.4; margin-top:4px;">The first benchmark on evaluating LLMs' reasoning ability of differential privacy.</span>
+<br> <span style="color:#6e6e6e; font-style:italic; font-size:13.8px; line-height:1.4; margin-top:4px;">An initial benchmark for evaluating LLMs' reasoning ability of differential privacy.</span>
  
 
 **Private-RAG: Answering Multiple Queries with LLMs while Keeping Your Data Private**
