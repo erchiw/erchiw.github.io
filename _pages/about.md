@@ -45,7 +45,7 @@ Selected Papers <small><span style="color:#888888"> <span style="color: gray; fo
 
 **Private-RAG: Answering Multiple Queries with LLMs while Keeping Your Data Private**
 <br> <a href="https://sites.google.com/site/ruihanwu14/home" style="text-decoration:none">Ruihan Wu<sup>*</sup></a>, <strong>Erchi Wang</strong><sup>*</sup>, <a href="https://h-zhanggg.github.io/Zhiyuan-Zhang/" style="text-decoration:none">Zhiyuan Zhang</a>, Yu-Xiang Wang
-<br> Preliminary version at NeurIPS 2025 Workshop: Reliable ML from Unreliable Data.   <a href="https://arxiv.org/pdf/2511.07637" style="text-decoration:none">arXiv</a>
+<br> COLM 2026   <a href="https://arxiv.org/pdf/2511.07637" style="text-decoration:none">arXiv</a>
 <br> <span style="color:#6e6e6e; font-style:italic; font-size:13.8px; line-height:1.4; margin-top:4px;">A multi-query DP-RAG framework with per-document privacy accounting that reduces the privacy budget by up to 100× compared to single-query DP composition, with improved utility.</span>
 
 **Purifying Approximate Differential Privacy with Randomized Post-processing**
