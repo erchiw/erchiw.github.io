@@ -85,7 +85,7 @@ Experience
 ======
 **Meta MSL**, <span style="color: gray">Menlo Park</span>
 <br>Research Scientist Intern
-<br>Apr 2026 - Now
+<br>Apr 2026 - Sep 2026
 
 <br />
 
